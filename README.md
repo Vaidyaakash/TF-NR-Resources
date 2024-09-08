@@ -1,1 +1,1 @@
-# Resources cration by terraro
+# Resources cration by terraform
